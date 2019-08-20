@@ -1,7 +1,7 @@
 # angular_internationalization
 Multi language support in angular
 
-To run i18n files:
+To generate i18n files:
 
 ``` npm run int:extract  ```
 
