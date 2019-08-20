@@ -13,3 +13,6 @@ To run application in Germen :
 
 ```	npm run start:de 	```
 
+
+![alt text](https://github.com/KrishnaAnanthi/angular_internationalization/blob/master/Capture.PNG)
+
