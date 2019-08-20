@@ -1,30 +1,31 @@
 # angular_internationalization
 Multi language support in angular
 
-To generate i18n files:
+**To generate i18n files:**
 
 ``` npm run int:extract  ```
 
-To run application in english :
+**To run application in english :**
 
 ```	npm run start	```
 
 ![English text](https://github.com/KrishnaAnanthi/angular_internationalization/blob/master/English.PNG)
 
-To run application in french :
+**To run application in french :**
 
 ```	npm run start:fr	```
 
 ![French text](https://github.com/KrishnaAnanthi/angular_internationalization/blob/master/germen.PNG)
 
-To run application in Germen :
+**To run application in Germen :**
 
 ```	npm run start:de 	```
 
 ![Germen text](https://github.com/KrishnaAnanthi/angular_internationalization/blob/master/french.PNG)
 
+**To add new text**
 
-To add new text add the text in app.component.html file with new id, then run 
+Add the text in app.component.html file with new id, then run 
 
 ``` npm run int:extract  ```
 
