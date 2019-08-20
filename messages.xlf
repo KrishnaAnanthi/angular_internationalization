@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="50d51014ed6e91ce428b3275c6a5e6e9c69c1570" datatype="html">
+        <source>Under Construction!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description"> Title for under construction card</note>
+        <note priority="1" from="meaning">Card Title </note>
+      </trans-unit>
+      <trans-unit id="5693dbeb4c3c9af639f43d49a0ec79d9c7c0c57f" datatype="html">
+        <source>This page is under construction.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description"> Description for under construction card</note>
+        <note priority="1" from="meaning">Card Description </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
