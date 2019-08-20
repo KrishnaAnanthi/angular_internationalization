@@ -29,4 +29,4 @@ Add the text in app.component.html file with new id, then run
 
 ``` npm run int:extract  ```
 
-now new text is added to messages.xlf files. Now copy the trans-unit block for new text and paste it in messages.de.xlf and messages.fr.xlf files
+now new text is added to messages.xlf files. Now copy the trans-unit block for new text and paste it in messages.de.xlf and messages.fr.xlf files. Now add the translated lines under target. eg)<target>Bonjour Ananthi</target>
