@@ -24,3 +24,8 @@ To run application in Germen :
 ![Germen text](https://github.com/KrishnaAnanthi/angular_internationalization/blob/master/french.PNG)
 
 
+To add new text add the text in app.component.html file with new id, then run 
+
+``` npm run int:extract  ```
+
+now new text is added to messages.xlf files. Now copy the trans-unit block for new text and paste it in messages.de.xlf and messages.fr.xlf files
