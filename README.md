@@ -2,6 +2,7 @@
 Multi language support in angular
 
 To run i18n files:
+
 ``` npm run int:extract  ```
 
 To run application in french :
